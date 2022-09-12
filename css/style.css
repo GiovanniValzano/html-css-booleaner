@@ -1,0 +1,36 @@
+header {
+    background-image: url(/Users/mariasofia/Desktop/Esercizi/html-css-booleaner/img/pattern.png);
+    background-color: cornflowerblue;
+}
+
+.logo {
+    width: 300px;
+    padding-top: 4%;
+}
+
+.titolo {
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.immagini {
+    padding-left: 10px;
+}
+
+.sottotitolo {
+    margin-top: -40px;
+    color: rgb(140, 140, 140);
+}
+
+.booleaner {
+    color: dodgerblue;
+}
+
+.descrizione {
+    font-size: 12px;
+    margin-top: 7px;
+}
+
+.evidenziatore {
+    background-color: rgba(255, 255, 0, 0.458);
+}
